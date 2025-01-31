@@ -15,4 +15,7 @@ Created a mock of the figma design provided by team.
 
 # Deployed on Vercel
 
-# Please let me know if further changes are required.
+# Please let me know if further changes are required:
+
+- **Email:** [alencolins@gmail.com](mailto:alencolins@gmail.com)  
+- **Mobile:** [WhatsApp Me](https://wa.me/+919644377621)
